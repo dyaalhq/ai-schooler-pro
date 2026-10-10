@@ -1,0 +1,10 @@
+{
+  "name": "المعلم - المساعد الأكاديمي الذكي",
+  "description": "منصة دراسية ذكية وشاملة مستوحاة من NotebookLM لدراسة الكتب، تحليل وتلخيص ملفات PDF والمحاضرات، خرائط مفاهيمية تفاعلية، والمساعد الصوتي الذكي.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
